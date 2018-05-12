@@ -1,0 +1,32 @@
+_repo: Weighed-and-Wanting--Addresses-on-the-Ten-Commandments_33340
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moody, Dwight Lyman
+    aliases:
+    - Moody, D. L. (Dwight Lyman)
+    - Moody, Dwight L.
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '8911'
+    url: http://www.gutenberg.org/2009/agents/8911
+    wikipedia: http://en.wikipedia.org/wiki/Dwight_L._Moody
+description: ''
+gutenberg_issued: '2010-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33340'
+  lccn: '99001334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, American'
+- !lcc 'BV'
+- !lcsh 'Ten commandments -- Sermons'
+title: 'Weighed and Wanting: Addresses on the Ten Commandments'
+url: http://www.gutenberg.org/ebooks/33340
